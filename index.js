@@ -1,4 +1,6 @@
-const person = require('./person')
+const Person = require('./person')
 
 // const person = require('./person')
-console.log(person)
+person1 = new Person('John Doe', 30)
+
+person1.greeting()

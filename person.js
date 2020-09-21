@@ -9,4 +9,4 @@ class Person {
     }
 }
 
-module.exports = person
+module.exports = Person
